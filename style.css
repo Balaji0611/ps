@@ -91,12 +91,12 @@ a:hover{
 }
 .cl{
   position: absolute;
-  left: 250px;
+  left: 300px;
   bottom: 300px;
 }
 .cls{
   position: absolute;
-  right: 250px;
+  right: 150px;
   top: 50px;
 }
 .contact-me{
